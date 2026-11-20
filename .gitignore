@@ -1,0 +1,8 @@
+# never commit saved profiles, keys, catalogs or backups
+profiles.json
+state.json
+model-catalog.json
+catalog-template.json
+backups/
+*.bak
+.env
